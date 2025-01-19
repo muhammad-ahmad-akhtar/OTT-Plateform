@@ -122,7 +122,7 @@ Run the compiled executable:
 
 ## Preview of Output :tada:
 
-[![Watch the video](thumbnail.png)](media.mp4)
+[![Screen Recording of the Project](https://img.youtube.com/vi/FN1vuqLx1vA/0.jpg)](https://www.youtube.com/watch?v=FN1vuqLx1vA)
 
 ---
 
