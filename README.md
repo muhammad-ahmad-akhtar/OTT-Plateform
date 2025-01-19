@@ -89,6 +89,10 @@ Run the compiled executable:
    > Search for "Hot Air Ballon" in the movies search section to start the animation.
 
    - Browse categories, trending movies, and upcoming releases.
+     
+   ##### **Featured Movie**
+   ![Hot-Air-Ballon-Poster](Hot-Air-Ballon.png)
+   
 
 #### 3. **Manage Playlists**
    - Create and name custom playlists.
