@@ -122,7 +122,7 @@ Run the compiled executable:
 
 ## Preview of Output :tada:
 
-[![Watch the video](thumbnail.png)]()
+[![Watch the video](thumbnail.png)](media.mp4)
 
 ---
 
@@ -154,4 +154,3 @@ Run the compiled executable:
 > This project is open-source and licensed under the MIT License.
 
 ---
-```
